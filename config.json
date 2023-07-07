@@ -1,0 +1,11 @@
+{
+  "CLIP": { "x": 0, "y": 0, "z": 0, "w": 6330, "h": 8181, "d": 65 },
+
+  "TIF_INPUT": "../full-scrolls/fragment/train/1/surface_volume",
+  "LABEL_INPUT": "../full-scrolls/fragment/train/1/inklabels.png",
+  "MASK_INPUT": "../full-scrolls/fragment/train/1/mask.png",
+
+  "RAW_SAMPLING": 1,
+  "TIF_SAMPLING": 1,
+  "SUBCLIP_LIMIT": { "w": 200, "h": 200, "d": 65 }
+}
